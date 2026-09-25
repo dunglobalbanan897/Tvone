@@ -218,4 +218,4 @@ TVOne is offered as a full free version with all features and updates included. 
 Download TVOne now and unlock the world of live TV on your Kodi media center! Enjoy seamless streaming and a wide selection of channels today!
 
 ---
-**Last updated:** 2026-09-25 01:14:12 UTC
+**Last updated:** 2026-09-25 07:18:56 UTC
